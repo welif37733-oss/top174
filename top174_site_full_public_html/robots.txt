@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://top174.ru/sitemap.xml
